@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-zanettiprado-django-blog-vdgyek57mj.us2.codeanyapp.com', 'django-bloging.herokuapp.com', 'localhost']
+    '8000-zanettiprado-django-blog-vdgyek57mj.us2.codeanyapp.com', 'django-bloging-1bfd1654c0f6.herokuapp.com', 'localhost']
 
 
 # Application definition
